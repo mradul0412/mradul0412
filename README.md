@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mradul 👋
 
-<!--
-**mradul0412/mradul0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm an aspiring Python Developer and Data Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with Python, exploring datasets,
+and building projects that solve real-world problems.
+
+## Technical Skills
+
+- Python
+- Pandas
+- SQL
+- Git and GitHub
+- Visual Studio Code
+- APIs
+
+
+## Currently Learning
+
+- Software Development
+- Data Analysis
+- Git and GitHub
+
+## Connect With Me
+
+- GitHub: <https://github.com/mradul0412>
+- LinkedIn: www.linkedin.com/in/mradul-yadav0412
